@@ -33,3 +33,5 @@ class blackhole:
 
 blackhole = blackhole(sun * float(input("Solar Masses: ")))
 blackhole.returnvalues()
+
+input()
